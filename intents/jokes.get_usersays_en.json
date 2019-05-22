@@ -1,0 +1,579 @@
+[
+  {
+    "id": "728829da-68e5-4cb3-bfe1-6944cbd683fd",
+    "data": [
+      {
+        "text": "tell me ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "funniest",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " joke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "96d859f9-caf8-4564-b84c-a1903df078f4",
+    "data": [
+      {
+        "text": "can you tell me a joke please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d00dea80-94f5-48b7-a8ab-4a523740bab0",
+    "data": [
+      {
+        "text": "some joke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee4f40a7-61c5-4155-befb-d460db4d0858",
+    "data": [
+      {
+        "text": "let\u0027s hear ",
+        "userDefined": false
+      },
+      {
+        "text": "funny",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " jokes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f5faa29c-1dd0-47da-bcdc-2842adc5322e",
+    "data": [
+      {
+        "text": "I want to hear a joke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b7ad689-ecea-4f0e-8847-6ae7981031cf",
+    "data": [
+      {
+        "text": "tell a joke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "db983d1e-114d-4609-8dd9-5307aaad9f22",
+    "data": [
+      {
+        "text": "any",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " jokes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5279b679-0c94-40f5-8729-acb6eb93c4a4",
+    "data": [
+      {
+        "text": "tell me a ",
+        "userDefined": false
+      },
+      {
+        "text": "scary",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " joke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1500400351
+  },
+  {
+    "id": "a88acdb5-c3a9-4d0b-b990-050c143cc86f",
+    "data": [
+      {
+        "text": "I want a ",
+        "userDefined": false
+      },
+      {
+        "text": "funny",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " joke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "30763d75-b01e-4735-b69a-cfd2a23c6ee1",
+    "data": [
+      {
+        "text": "random joke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b41f78a9-dd9f-44ad-9427-db221ef2af60",
+    "data": [
+      {
+        "text": "tell me a joke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4b15c4ed-775d-4689-abf3-0b997624a578",
+    "data": [
+      {
+        "text": "do you joke well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ac937f5-66aa-41ae-b78b-96849e97eb30",
+    "data": [
+      {
+        "text": "joke please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c524c2df-d028-4810-b9da-d39527f81696",
+    "data": [
+      {
+        "text": "tell me a ",
+        "userDefined": false
+      },
+      {
+        "text": "nice",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " joke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b49b7e84-ecee-453d-8b7b-b11d77a59fd1",
+    "data": [
+      {
+        "text": "I want some jokes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "80a28e1c-80cc-48b6-8445-8ede0b8e7d16",
+    "data": [
+      {
+        "text": "can you joke well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "895a7660-5681-4632-881e-fc0f39cadce8",
+    "data": [
+      {
+        "text": "tell me a ",
+        "userDefined": false
+      },
+      {
+        "text": "silly",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " joke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1500400351
+  },
+  {
+    "id": "a624c67f-f33f-4ceb-a00b-2678a670ef6b",
+    "data": [
+      {
+        "text": "tell me the ",
+        "userDefined": false
+      },
+      {
+        "text": "best",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " joke ever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f337eb0c-5e59-426b-8ad1-1b386ea0a73b",
+    "data": [
+      {
+        "text": "let\u0027s joke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2f4c78e8-6812-4bf0-9390-ab503ba79c9a",
+    "data": [
+      {
+        "text": "I",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "m",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " feeling glum make ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " laugh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dae0eae0-0513-413a-8b75-905527193b41",
+    "data": [
+      {
+        "text": "can you tell me another joke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "08dffe49-fce4-434b-afed-e06d284ea32d",
+    "data": [
+      {
+        "text": "tell me some jokes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "03f374e1-04e9-4600-9dff-92f3c18c692a",
+    "data": [
+      {
+        "text": "tell",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "funny",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " joke please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ab62b09d-e4f2-44d3-bd0e-ed24acb4181f",
+    "data": [
+      {
+        "text": "more jokes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aa76a2cf-ff7a-4efd-85e6-e90f54d0c571",
+    "data": [
+      {
+        "text": "tell me a ",
+        "userDefined": false
+      },
+      {
+        "text": "funny",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " joke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ef38afb2-4915-4af5-8423-9f5e7d07a037",
+    "data": [
+      {
+        "text": "do you have any jokes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1d459b68-96c5-425e-8027-be97e2e48cfc",
+    "data": [
+      {
+        "text": "tell me a joke please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "63d006a9-0e54-4b21-b31c-a410e5853ec5",
+    "data": [
+      {
+        "text": "give",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " me a joke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7e0f4423-bc57-46d3-a47f-5e7849ebbdaa",
+    "data": [
+      {
+        "text": "joke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "491713fa-d20a-47e5-a911-453664e1dcd5",
+    "data": [
+      {
+        "text": "jokes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "afcc63df-9758-462e-a4a8-a551c3b1dbe8",
+    "data": [
+      {
+        "text": "tell",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "funny",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " joke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "acad4c0d-5e8f-4eb9-bc7c-a4f4cd1ad20e",
+    "data": [
+      {
+        "text": "can you tell jokes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "89d4179f-24fa-4eb5-9aad-7691776282f6",
+    "data": [
+      {
+        "text": "it would be nice to hear a joke right now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "afdf5179-04da-49aa-8ccb-e03458b89b13",
+    "data": [
+      {
+        "text": "do you know any jokes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

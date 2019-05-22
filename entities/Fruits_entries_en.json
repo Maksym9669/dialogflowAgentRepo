@@ -1,0 +1,21 @@
+[
+  {
+    "value": "Apple",
+    "synonyms": [
+      "Apple"
+    ]
+  },
+  {
+    "value": "Orange",
+    "synonyms": [
+      "Orange"
+    ]
+  },
+  {
+    "value": "Banana",
+    "synonyms": [
+      "Banana",
+      "synonymOfBanana"
+    ]
+  }
+]
